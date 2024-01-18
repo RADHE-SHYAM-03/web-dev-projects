@@ -605,6 +605,7 @@ body{
 .filler-text{
     font-size: 1rem;
     color: #777;
+    width:max-width;
 }
 .footer-grid{
     display: grid;
